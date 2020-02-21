@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PlasportExamp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="narenda_wicaksono">Narenda Wicaksono</string>
+    <string name="narenda_dicoding_com">narenda@dicoding.com</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search for Products, Brands and More</string>
+    <string name="cart">My cart</string>
+    <string name="person">Person</string>
+    <string name="Account">Account Setting</string>
+    <string name="signIn">Sign In</string>
+    <string name="signOut">Sign Out</string>
+
+    <string name="join">Register here</string>
+    <string name="register">Welcome to register account</string>
+    <string name="btn_register">register account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_name">Username</string>
+    <string name="prompt_numberPhone">Number Phone</string>
+    <string name="prompt_passwordRepeat">Password Confirm</string>
+    <string name="messageInRegister">Do you have account ?\  </string>
+    <string name="backLogin">\ Login Here</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="message">don\'t have account</string>
+
+    <!-- Profile   -->
+    <string name="Country">Country</string>
+    <string name="Province">Province</string>
+    <string name="City">City</string>
+    <string name="Address">Address</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+</resources>
